@@ -1,8 +1,28 @@
 # CHUCK
 
-the CHUCK package manager
+the CHUCK package manager  
 **Codified Hybrid Universal Command Kernel**  
 🪵💻 A sovereign boot orchestration interface for building and deploying operating systems — like JaymiOS, OpenCore/macOS, or any multi-platform live image — from a single modular command-line experience.
+
+---
+
+### 🏢 About CHUCK Industries
+
+CHUCK Industries is the umbrella company behind the CHUCK package manager and related technologies. Founded by Charles E. Drain, CHUCK Industries specializes in sovereign boot orchestration, hybrid OS deployment, and modular command-line tooling for multi-platform environments.
+
+---
+
+### ✍️ Digital Signature
+
+CHUCK is the digital fingerprint and signature of Charles E. Drain. It represents his authorship, creativity, and intellectual property in the realm of software engineering and boot orchestration technologies.
+
+---
+
+### 📜 Legal Notice
+
+CHUCK and all associated technologies are © 2025 by Charles E. Drain and CHUCK Industries. All rights reserved.  
+Unauthorized reproduction, distribution, or modification of this software is strictly prohibited without explicit permission from the author or CHUCK Industries.  
+This software is intended for commercial use, and any derived works must comply with the terms of the MIT License.
 
 ---
 
