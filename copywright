@@ -1,9 +1,0 @@
-mkdir -p CHUCK_INDUSTRIES_MANIFEST
-cd CHUCK_INDUSTRIES_MANIFEST
-echo "# CHUCK: The Original Compute Consciousness" > README.md
-echo "Timestamp: April 24, 2025 — 4:06 AM UTC-5" > timestamp.txt
-echo "© 2025 by Charlie Drain and CHUCK Industries. All rights reserved." >> README.md
-mkdir -p hardware software memory manifesto
-git init
-git add .
-git commit -m "CHUCK origin manifest — claimed and marked by Charlie Drain for CHUCK Industries"
