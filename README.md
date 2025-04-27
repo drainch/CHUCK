@@ -9,11 +9,12 @@ CHUCKcorp is a sovereign technology company, independently developed to architec
 - **chuck native systems**  
   Advanced research and development division responsible for runtime ecosystems, AI-native platforms, and hybrid memory architectures.
 
-- **chuckOS**  
-  Modular, encrypted, AI-accelerated operating system built for maximum user sovereignty and local AI-native execution.
+- **the engeneers beind**
+   - **aiOS™**  
+    A hybrid AI operating system framework, integrating device, memory, and agent layers into a fluid, human-led architecture.
 
-- **aiOS™**  
-  A hybrid AI operating system framework, integrating device, memory, and agent layers into a fluid, human-led architecture.
+ - **chuckOS**  
+    Modular, encrypted, AI-accelerated operating system built for maximum user sovereignty and local AI-native execution.
 
 ---
 
