@@ -1,6 +1,9 @@
 # CHUCKcorp
 
-**Parent entity of chuckOS, chuck native systems, and the emerging aiOS™ platform.**
+enegeered by the team at chuck native systems
+
+formualted to rest effortlessly in the emerging aiOS™ firmware
+housig the native chuckOS
 
 CHUCKcorp is a sovereign technology company, independently developed to architect, protect, and evolve hybrid operating environments designed around human-led AI frameworks.
 
